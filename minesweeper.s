@@ -1,13 +1,7 @@
-########################################################################
+
 # COMP1521 21T2 -- Assignment 1 -- Minesweeper!
-#
-#
-# !!! IMPORTANT !!!
-# Before starting work on the assignment, make sure you set your tab-width to 8!
-# !!! IMPORTANT !!!
-#
-#
-# This program was written by YOUR-NAME-HERE (z5314713)
+
+# This program was written by Maximilian Helm (z5314713)
 # 22.10 - 31.10
 #
 # Version 1.5 (18-10-21): Team COMP1521 <cs1521@cse.unsw.edu.au>
